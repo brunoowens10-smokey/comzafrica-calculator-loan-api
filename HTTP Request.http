@@ -1,0 +1,22 @@
+PUT http://localhost:8080/loans/999/approve
+
+### Apply for a loan
+POST http://localhost:8080/loans
+Content-Type: application/json
+
+{
+  "applicantName": "Owen",
+  "loanAmount": 500000,
+  "interestRate": 5.5,
+  "durationMonths": 12
+}
+###
+
+### Get all loans
+GET http://localhost:8080/loans
+
+### Approve a loan
+PUT http://localhost:8080/loans/3/approve
+
+### Delete a loan
+DELETE http://localhost:8080/loans/1
