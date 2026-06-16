@@ -4,7 +4,7 @@ A practice project built while learning Java and Spring Boot during my Software 
 
 ## Why this project exists
 
-I started this internship with no prior Java experience. This repository is where I learned Spring Boot fundamentals by building real, working APIs instead of just following tutorials — including debugging real errors like `StaleObjectStateException` and database connection issues along the way.
+This repository documents my hands-on approach to learning Spring Boot during my internship — building real, working APIs instead of just following tutorials, including debugging real errors like `StaleObjectStateException` and database connection issues along the way.
 
 ## What it does
 
